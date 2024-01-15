@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+# pip install PySide6
+# pip install requests
+# pip install pyinstaller
+# pip3 install lxml
+# pyinstaller -i icon/icons.ico -D -F -w Main.py
+PySide6==6.6.1
+requests==2.31.0
+lxml==5.1.0
